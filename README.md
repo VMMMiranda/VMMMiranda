@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VMMMiranda
+- 👋 Hello, I’m @VMMMiranda
 - 👀 I’m interested in Phyton
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on a project
